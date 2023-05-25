@@ -23,10 +23,16 @@
 <p>
  <h4>Python</h4>
 <code>for i in numbers: 
-      //content
- </code>
+      //content</code>
 </p>
 
 <p>
-  This is just one of the many differences between the two. Check out this tutorial if you want to get a better sense of the syntax of Python! 
+  This is just one of the many differences between the two. Check out this tutorial if you want to get a better sense of the syntax of Python! <ul><li>https://docs.google.com/presentation/d/1ZtHV1NX3bUUY-TeyVyKAIX-c2_BoH4XKeHvgndoEzK8/edit?usp=sharing</li></ul>
 </p>
+<p>
+  Once you're feeling good about your Python skills, feel free to put them to the test and solve this Leetcode problem. Leetcode is a really useful resource for improving your coding and problem solving skills, as well as preparing for coding interviews. There's an endless bank of problems to try out!
+  <ul><li>https://leetcode.com/problems/valid-palindrome/</li></ul>
+  
+</p>
+
+
