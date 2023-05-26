@@ -81,4 +81,8 @@
   <p>Shell scripting is important because it allows you to make more complicated and repeatable command line instructions without having to enter them in one line at a time. For example, you could create a shell script that creates multiple directories within a folder. If you needed to do this multiple times, it would make sense to write a script instead of constantly having to make new directories line by line. Here is a helpful tutorial on shell scripting if you want to learn more:
   </p>
   <ul><li>https://eecs485staff.github.io/p1-insta485-static/setup_scripting.html</li></ul>
+  
+  
+ <h2>Version Control</h2>
+ <p></p>
  
