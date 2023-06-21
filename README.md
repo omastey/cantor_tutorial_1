@@ -5,7 +5,6 @@
   <li>Python</li>
   <li>Command line + scripting</li>
   <li>Version Control</li>
-  <li>HTML</li>
 </ul>
  
 <h2>Python</h2>
@@ -83,8 +82,5 @@
   <ul><li>https://eecs485staff.github.io/p1-insta485-static/setup_scripting.html</li></ul>
   
   
- <h2>Version Control</h2>
-<p>
-  
-</p>
+
  
